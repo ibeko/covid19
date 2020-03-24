@@ -62,6 +62,7 @@
 
 <script>
 $(document).ready(function(){
+  document.getElementById("myInput").focus();
   $("#myInput").on("keyup", function() {
     var value = $(this).val().toLowerCase();
     $("#myTable ").filter(function() {
