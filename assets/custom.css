@@ -1,0 +1,19 @@
+.altSinir{
+	margin-bottom: 20px!important;
+}
+
+
+.feedback {
+  background-color : #ddf;
+  color: #000;
+  padding: 10px 20px;
+  bottom: 30px;
+  border-radius: 4px;
+  border-color: #ddd;
+}
+
+#mybutton {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+}
